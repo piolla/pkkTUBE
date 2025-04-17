@@ -50,8 +50,8 @@ https://console.cloud.google.com/welcome?hl=ko&pli=1&project=prismatic-vial-3714
 ~~/MCP-pkkTube/.env 
              /.env.example 
              /pkkTubeCli3.py 
-	         /pkkTubeServer.py 
-	         /pkkTube.json 
-	         /chat_histories/chat_2025-04-13.json 
-	         /chat_histories/chat_2025-04-14.json 
+	     /pkkTubeServer.py 
+	     /pkkTube.json 
+	     /chat_histories/chat_2025-04-13.json 
+	     /chat_histories/chat_2025-04-14.json 
 ```
