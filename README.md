@@ -25,9 +25,28 @@ https://platform.openai.com/api-keys
 https://console.cloud.google.com/welcome?hl=ko&pli=1&project=prismatic-vial-371401
 
 ### 1-4. Python 가상환경 설정 
-- 가상환경 만들기:
+- venv 사용법:
+1) 가상환경을 설치할 경로이동 
+```bash
+// 파일 이동
+cd 가상환경을 설치할 경로
+```
+2) 가상환경생성
+```bash
+python -m venv 가상환경이름
+```
+
+3) 가상환경 활성화
+```bash
+source 가상환경이름/Scripts/activate
+```
+4) 가상환경 비 활성화
+```bash
+deactivate
+```
 
 ### 1-5. Package 설치 
+- 가상환경 활성화 후에 수행 
 ```shell
     pip install mcp openai-agents streamlit youtube-transcript-api python-dotenv
 ```
