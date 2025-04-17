@@ -1,4 +1,7 @@
 # YouTube MCP Agent 
+- YouTube 검색, 요약, 채널 분석등을 위한 Youtube MCP Agent구현 예제.
+- Youtube 로 검색하고, 요약등의 작업 History file을 저장하고 저장한 데이터 기반으로 Youtube 검색기능
+
 
 ### 1. 설치단계  
 1) Repository clone 또는 다운로드하기
