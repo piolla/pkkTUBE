@@ -64,6 +64,15 @@ deactivate
     }
   }
 ```
+
+### 1-7. .env 파일
+```script
+OPENAI_API_KEY=s????
+YOUTUBE_API_KEY=AI 
+```
+- API Key 유출 금지 
+  
+
 ### Files
 ```script
 ~~/MCP-pkkTube/.env 
