@@ -29,7 +29,7 @@ https://console.cloud.google.com/welcome?hl=ko&pli=1&project=prismatic-vial-3714
     pip install mcp openai-agents streamlit youtube-transcript-api python-dotenv
 ```
 
-### 1-6. 
+### 1-6. Client 연결을 위한 Python, MCP Server Script 경로 설정(JSON)  
 ```json
 {
     "mcpServers": {
