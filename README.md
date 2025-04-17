@@ -11,7 +11,7 @@
 
 ### 1-1. Repository clone 또는 다운로드하기
 ```shell
-git clone https://github.com/piolla/pkkTUBE.git ?????????????????
+git clone https://github.com/piolla/pkkTUBE
 cd pkkTUBE
 ```
 
